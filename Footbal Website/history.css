@@ -1,0 +1,126 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin:0;
+    padding: 0;
+   
+    
+}
+
+body{
+    background-color:	#C0C0C0;
+}
+/*History Heading CSS start*/
+h1{
+    margin-left:34%;
+    font-size:75px;
+    margin-top: 55px;
+    
+}
+/*end*/
+ 
+/*Standard H2 heading CSS*/
+h2{
+    font-size: 50px;
+    margin-left: 38%;
+}
+/* end*/
+/*H2 Headings adjustment  with ids*/
+#Heading2{
+    margin-left: 43%;
+}
+
+#Heading3{
+    margin-left:35%
+}
+
+#Heading4{
+    margin-top: 20px;
+}
+/*end*/
+
+p{
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+#firstp{
+    margin-left: 39px;
+}
+#problemp
+{
+  margin-top: 123px;
+  margin-left: 39px;
+}
+
+
+
+/*Navigation bar css start*/
+nav{
+    margin-top: -40px;
+    color:black;
+    
+    
+}
+
+li{
+   display:inline;
+   padding: 20px;
+   font-size: 25px;
+   text-align: right;
+   position: relative;
+}
+
+ul{
+  
+   font-size: 25px;
+   text-align: right;
+   padding-right: 35px;
+}
+
+a:link{
+    color:black;
+    text-decoration: none;
+    
+}
+
+a:hover{
+    color: red;
+}
+/*Navigation bar css end*/
+
+/*All of the divs standard css*/
+.content{
+    margin-top: 10%;
+    margin-left: 43px;
+    margin-right: 50px;
+}
+/*end*/
+
+/*for images*/
+#img1{
+    float: right;
+    margin-top: 50px; 
+    margin-right: 25px; 
+    margin-left: 20px;
+}
+
+#img2{
+   
+    float: right;
+    margin-right: 25px;
+}
+
+#rfvpic{
+    margin-right: 30% ;
+    margin-left: 35%;
+    margin-top: 65px;
+    margin-bottom:-4%
+}
+
+#prdev{
+    width: 600px;
+    margin-right: 20% ;
+    margin-left: 36%;
+    margin-top:38px;
+}
+
